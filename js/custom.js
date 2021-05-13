@@ -1,5 +1,6 @@
 // Custom Script
-// Developed by: Samson.Onna
+// Developed by: Manish Jha
+
 var customScripts = {
     profile: function () {
         // portfolio

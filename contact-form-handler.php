@@ -1,5 +1,7 @@
 <?php
+print_r($_POST);
 
+die;
 $errors = ”;
 
 $myemail = ‘manishjhamj28@gmail.com’;//<—–Put Your email address here. if(empty($_POST[‘name’]) ||
